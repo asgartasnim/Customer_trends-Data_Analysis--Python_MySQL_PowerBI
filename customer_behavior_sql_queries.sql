@@ -23,6 +23,7 @@ WHERE
             customer);
 
 
+
 -- Q3. Which are the top 5 products with the highest average review rating?
 SELECT 
     item_purchased,
